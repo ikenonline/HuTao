@@ -1,7 +1,7 @@
 {
-    "name": "hutao",
-    "version": "1.0.0",
-    "description": "Genshin Impact discord bot HuTao",
+    "name": "ts-paimon",
+    "version": "0.0.1",
+    "description": "Genshin Impact discord bot Paimon",
     "main": "dist/main.js",
     "scripts": {
         "start": "node dist/main.js",
@@ -10,14 +10,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Tibowl/HuTao.git"
+        "url": ""
     },
     "author": "Tibi",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/Tibowl/HuTao/issues"
+        "url": ""
     },
-    "homepage": "https://github.com/Tibowl/HuTao#readme",
+    "homepage": "",
     "dependencies": {
         "better-sqlite3": "^7.4.5",
         "body-parser": "^1.19.1",

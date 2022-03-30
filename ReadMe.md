@@ -1,6 +1,6 @@
 Hu Tao
 =======
-
+````````````````````
 Hu Tao is a Discord bot for Genshin Impact offering [guide/routes](https://i.imgur.com/fD46Uf6.png), [character](https://i.imgur.com/0BkDmKH.png) and [weapon](https://i.imgur.com/nlj91gB.png) info, [news updates](https://i.imgur.com/9N9s1hd.png) and [event reminders](https://i.imgur.com/B21ye84.png) that you can follow, [reminders](https://i.imgur.com/TIfS4ZT.png), [gacha rate calculator](https://i.imgur.com/GXP3IDz.png) and more. Some parts are also available on [hutaobot.moe](https://hutaobot.moe/).
 
 An invite link for this bot can be found [here](https://discord.com/oauth2/authorize?client_id=826550363355086918&scope=bot+applications.commands&permissions=313344). If you need help, you can find the support Discord [here](https://discord.gg/BM3Srp8j8G).
