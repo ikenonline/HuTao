@@ -46,7 +46,7 @@
         "spaced-comment": "warn",
         "linebreak-style": [
             "error",
-            "windows"
+            "unix"
         ],
         "quotes": "off",
         "@typescript-eslint/quotes": [

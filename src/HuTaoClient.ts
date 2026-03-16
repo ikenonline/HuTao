@@ -34,7 +34,6 @@ export default class HuTaoClient extends Discord.Client {
     followManager: FollowManager = new FollowManager()
     reminderManager: ReminderManager = new ReminderManager()
     notesManager: NotesManager = new NotesManager()
-
     tweetManager: TweetManager = new TweetManager()
     newsManager: NewsManager = new NewsManager()
     webManager: WebManager = new WebManager()

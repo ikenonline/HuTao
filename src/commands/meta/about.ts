@@ -1,7 +1,7 @@
 import { CommandInteraction, Message } from "discord.js"
 
 import Command from "../../utils/Command"
-import client from "../../main"
+// import client from "../../main"
 import { sendMessage } from "../../utils/Utils"
 import { CommandSource, SendMessage } from "../../utils/Types"
 
@@ -26,7 +26,7 @@ export default class About extends Command {
     }
 
     async run(source: CommandSource): Promise<SendMessage | undefined> {
-        const me = (await client.users.fetch("127393188729192448")).tag
-        return sendMessage(source, `Demo ... !`)
+        // const me = (await client.users.fetch("127393188729192448")).tag
+        return sendMessage(source, "Demo ... !")
     }
 }
